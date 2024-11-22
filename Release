@@ -1,11 +1,11 @@
-Origin: Paisseon's Repo 
-Label: Paisseon's Repo
+Origin: n1z19's Repo
+Label: n1z19's Repo
 Suite: stable
 Version: 1.0
 Codename: EMT
 Architectures: iphoneos-arm
 Components: main
-Description: Who even reads repo descriptions?
+Description: I dont need a description lol.
 MD5Sum:
  28aff5af9da775ecb2136c9856423507 40670 Packages
  e5e19a41db4fead4f258343478afa3b3 8570 Packages.bz2
