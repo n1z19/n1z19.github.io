@@ -1,0 +1,1121 @@
+Package: ai.paisseon.cccalc
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: gilesgc & paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.cccalc_2.0.2_iphoneos-arm.deb
+Size: 74620
+MD5sum: 9e301ffe153933a14ced2cc6ceb8be65
+SHA1: 62adea3fa56a2710d7ba26e4ee2453133158386d
+SHA256: 8530aad50b57ec01c14de19d30017a7456ac72fc6f43f4a60bf5b1591bba2ab3
+Section: Tweaks
+Description: Turn the Calculator CC module into a working calculator
+Author: gilesgc & paisseon
+Depiction: https://paisseon.github.io/info/cccalc.html
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc
+Sileodepiction: https://paisseon.github.io/info/cccalc.json
+
+Package: ai.paisseon.cydown
+Version: 7.1.6
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: debs/ai.paisseon.cydown_7.1.6_iphoneos-arm.deb
+Size: 2708820
+MD5sum: 9902bcff19cdc0a3f83a247268df9534
+SHA1: b3fa65eeef6d0b5331b014ed0ede166b6d456757
+SHA256: 4c51166d70922faf7acfd4a042023dd286c45fdae371bd0f1ecacecb4e1f524e
+Section: Tweaks
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+Name: CyDown++
+Sileodepiction: https://paisseon.github.io/info/cydown.json
+
+Package: ai.paisseon.darkkeysreborn
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.darkkeysreborn_2.2_iphoneos-arm.deb
+Size: 29412
+MD5sum: e549658db6fe669333f1b16377cd93bf
+SHA1: 3435886e908517dcd5730dfc22639674c313171f
+SHA256: b4a8c2ef27259e7d813a5ae9fcaa8dc0301ce64debedcd627cc913716e0b611e
+Section: Tweaks
+Description: A true dark keyboard
+Author: Paisseon
+Icon: https://paisseon.github.io/darkkeysreborn.png
+Name: Dark Keys Reborn
+
+Package: ai.paisseon.dodontsuggest
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.3_iphoneos-arm.deb
+Size: 42700
+MD5sum: fed88c639d169ac721e8ca473cce28e2
+SHA1: 2b40bf82bb11aecba1029b8cdc026cdb3ae1d2b3
+SHA256: e28f89bd292cc2021478bf6adbc2ccaf36e5d6267a4c0ab0eeae33ecdc4fc525
+Description: Customisation for the Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
+Package: ai.paisseon.dodontsuggest
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.5_iphoneos-arm.deb
+Size: 42940
+MD5sum: 2fcb1f47f59c00bcea7fa70cffc5ce4e
+SHA1: 55bca8d4c5cf906d20a2818c80aea335643019ff
+SHA256: ac654c342d476b310c011f567d6addf7e0695400e59329511293e1ea24ec87bc
+Description: Customisation for the Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
+Package: ai.paisseon.dodontsuggest
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.6_iphoneos-arm.deb
+Size: 42788
+MD5sum: bfd060c0148c14c25a2fa639ca8788b2
+SHA1: 0fbb92da4dd0bf66821cc49cde422cbdb587f9d7
+SHA256: f4f55ef539c0492418a39664526c3e2b2fe2fad6126a254451b128a81e59c2ca
+Description: Customisation for the Dodo tweak
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
+Package: ai.paisseon.dodontsuggest
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/ai.paisseon.dodontsuggest_1.7_iphoneos-arm.deb
+Size: 42132
+MD5sum: 8dd175277b63f00d637841f174e5bf1b
+SHA1: 8cd595225df054cb92d799b20dac906f1eea8606
+SHA256: dded9f6d95f866033739be1888f7b1b9ebc8ce7fb954d35534c82781397e1987
+Description: Change the colour of the clock in Dodo. The name refers to a previous feature which has since been fixed in Dodo. Props to Ginsu for doing so!
+Author: Paisseon
+Icon: https://paisseon.github.io/info/dodontsuggest.png
+Name: Dodon't Suggest My Music
+
+Package: ai.paisseon.peepreborn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: mobilesubstrate
+Filename: debs/ai.paisseon.peepreborn_1.0_iphoneos-arm.deb
+Size: 7744
+MD5sum: eda40590a10dd108f588307049a97807
+SHA1: e92e3fbd2438dbb7284d804a16cb24d62c747d7c
+SHA256: d5f8496cbe469293f154ba4060fbe02b1380716e8c83c07c27f7b98bd6af23be
+Section: Tweaks
+Description: Tap to hide status bar
+Author: Paisseon
+Icon: https://paisseon.github.io/peepreborn.png
+Name: Peep Reborn
+
+Package: ai.paisseon.peepreborn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 388
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/ai.paisseon.peepreborn_1.1_iphoneos-arm.deb
+Size: 28526
+MD5sum: 62906104ffd85128792c160a5159220e
+SHA1: e808c18699fb87b78c920d2e665baaada3381a0a
+SHA256: bfefc4a583c12c1ee3144af3846230c0f9c8c2cbfd0587ea8c72d4b8b036749b
+Description: Hide status bar with a tap
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/peepreborn.html
+Icon: https://paisseon.github.io/info/peepreborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/info/peepreborn.json
+
+Package: ai.paisseon.reverie
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.3_iphoneos-arm.deb
+Size: 59752
+MD5sum: 3503a35b6776b5ea81b56707abc2196c
+SHA1: 3bbf97eac770403b2dfbbb5213e593a25f34b7c5
+SHA256: 98a74fcb66389c76b62eabe4ede101e5f02f66a650d88d2018a8bb9f1e964c45
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.reverie
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.4_iphoneos-arm.deb
+Size: 53462
+MD5sum: dfdbb73a98e8cd01920e07676689eabb
+SHA1: 22b6bb3a770889b94be7f2131bca7fe30cc30317
+SHA256: c7c57ba7efa491a5136fd0dcf8dcb537006e58d7b2979c5acc768357f8b15c72
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.reverie
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.4.1_iphoneos-arm.deb
+Size: 53656
+MD5sum: 49272f9e2d256f98080f6132eea3e122
+SHA1: 6ce4929bdcc4d7a9239e3069f9d567a879ffe48d
+SHA256: 70868b88ba8cbf09b14ef5bf392680eb72c641c20bc44bbb7e83b55691130532
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.reverie
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.6_iphoneos-arm.deb
+Size: 54270
+MD5sum: 40b34fac6eca05561702877b12961ae0
+SHA1: 7043f1cfe608ed1e6ca0fee25f6cb56af3ec4cf8
+SHA256: 585fd78288a2dc85a03d6588627406e0d7a796357a2a9ecee232079da2df9178
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.reverie
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 572
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Filename: debs/ai.paisseon.reverie_2.6.2_iphoneos-arm.deb
+Size: 46746
+MD5sum: 227dc858c9cd5376b431b6dc4b2bed6d
+SHA1: e5688186e0b5685c4aaa586c2f42e74adc1b7b76
+SHA256: 98e32ecefc0311172aa2696e8e06fec8cd0c1457cb9adfcf904f62fe35748e0a
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/reverie.html
+Icon: https://paisseon.github.io/info/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/info/reverie.json
+
+Package: ai.paisseon.satella
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Installed-Size: 408
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.4_iphoneos-arm.deb
+Size: 48766
+MD5sum: 5978402f3be8727caf56bfde50c6a3bd
+SHA1: c86c0a0d75d8ae8676b7e2db8f8789d2eb489a63
+SHA256: faa92208ca9e4a77981b8c07d4f5f76f01f820936b140f7eb428c679f44e03ce
+Description: Aishiteru
+Author: paisseon
+Icon: https://i.imgur.com/HHOvZoD.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 404
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.5_iphoneos-arm.deb
+Size: 47684
+MD5sum: 1a120e99da22ad8c1896531fab1db0a8
+SHA1: 0bc868015962381c7177a46c54ae6f827e2e6b61
+SHA256: 01c5f83348c522d3ea7f2ab91f7139a11750a2b0c4b8c67bcf8711cdccaef723
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
+Size: 47512
+MD5sum: 49397eda8591de297d534bf1305d383d
+SHA1: 099000bde49f1312c0e23d572ee0e70de0d4e6a2
+SHA256: 07f9fe68f80f81a47f10a1cb34cba1c61577cf7ebe81bf1d61c681236ac066b8
+Section: Tweaks
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.6_iphoneos-arm.deb
+Size: 48968
+MD5sum: 5550f1dd37ed39692893c610ea5690f5
+SHA1: 27500de54ec9578a32aba35844ec85edb7838cb1
+SHA256: fc37afd010445b61b52d80f789215b200d87ad8efcb83abb834aac884e7e0411
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.7_iphoneos-arm.deb
+Size: 49238
+MD5sum: 2209423d43827fe8c64396cf7b6137b9
+SHA1: 90becb8184cc413d458a823e489c009bb4a20c95
+SHA256: 60fd798808a6f878ec3be3aae7aa88a9d81406f4ccc52993ad4efb4e505987d0
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.7.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ai.paisseon.satella_2.7.1_iphoneos-arm.deb
+Size: 48684
+MD5sum: 5c918029231fd1dccb6779c19e9f39e2
+SHA1: e52e21187dd3c1fe716ed517358132c9a7247bf1
+SHA256: 37e98f718ed70db26e220c9a543c3f1924b80d095d434a6bc3eb3484145ce76f
+Section: Tweaks
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Replaces: ai.paisseon.satella12
+Filename: debs/ai.paisseon.satella_2.8_iphoneos-arm.deb
+Size: 48426
+MD5sum: 306e4aee8fdb4b4fb512396b5e49f27d
+SHA1: 3477ac43983e307e2fd628fe38eaf8d7bb81b1d1
+SHA256: 72959705653d62aadba2c46fc371268e905a752387e79a5e176c9c65233e49de
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.satella
+Version: 2.8.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 332
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Replaces: ai.paisseon.satella12
+Filename: debs/ai.paisseon.satella_2.8.1_iphoneos-arm.deb
+Size: 47820
+MD5sum: 7a14953846ee22df4d41193a61c14ad0
+SHA1: f2fa51cb5c3b5e6b55a1be430ebf7ffe2c0ce5f7
+SHA256: e3c4bba19a785a56ba3497579351645d73ad3544f8ae7b661d6d9a2fd8eced9c
+Section: Tweaks
+Description: IAP cracker for modern devices
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/satella.html
+Icon: https://paisseon.github.io/info/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/info/satella.json
+
+Package: ai.paisseon.seele
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.seele_2.0_iphoneos-arm.deb
+Size: 22548
+MD5sum: ac048590bcc41e63a19d3a42adebf787
+SHA1: 354aef0d67eb3d7afe517320d4cac6be169c7796
+SHA256: 064e581b48eded598b567ae66209418c71b38b22211aad15aa59e6b3bf576607
+Section: Tweaks
+Description: It shall be eternal proof that mankind ever existed.
+Author: paisseon
+Icon: https://paisseon.github.io/seele.png
+Name: Seele
+
+Package: ai.paisseon.vivy
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.muirey03.libimagepicker, org.thebigboss.libcolorpicker, emt.paisseon.lipfix
+Filename: debs/ai.paisseon.vivy_1.3_iphoneos-arm.deb
+Size: 64016
+MD5sum: c6e1c36f4952c00b9294459066184e24
+SHA1: f58684e6537c291ba8541891a98e5eb6b1d3bfd1
+SHA256: bf9e236484a6b12aa73d4522d95f9300f7f968e7b1004804eac536eaf02c1244
+Description: Free battery theming engine
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/vivy.html
+Icon: https://paisseon.github.io/info/vivy.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/info/vivy.json
+
+Package: anondev.LocalIAPStore
+Version: 1.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Size: 42184
+MD5sum: 505f97c4024a0178a71159b5462862e7
+SHA1: 4e761cb8e44f00f1e1882b4f0d0b4352b1d3804d
+SHA256: 1643ea3ebd0ad6b9738f4fb42932f1c1339de32b8b173f214f9d27db9d8f220f
+Section: Tweaks
+Description: Pwns In-app purchases on iOS 5.1.1 - 14.8.1
+Author: anondev
+Name: LocalIAPStore
+
+Package: emt.paisseon.apollocrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), emt.paisseon.satella (>= 0.5b)
+Filename: debs/emt.paisseon.apollocrack_1.0_iphoneos-arm.deb
+Size: 17650
+MD5sum: 8e95a3c0c31d6e351353844a1545c456
+SHA1: 0db1346e761234d8fc916232623cbb2a4c62c65d
+SHA256: 7a935ccef276d01c71668cedce2e3290fb594185601adfd26b22fe15e32ac2c5
+Section: Tweaks
+Description: Apollo Ultra for free. Please purchase Pro in a Crane container to support the developer!!
+Author: Paisseon
+Name: Apollo Crack
+
+Package: emt.paisseon.chocola
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_0.1b_iphoneos-arm.deb
+Size: 71624
+MD5sum: 4773d2a92c4c906df276967f84cf6ac0
+SHA1: 320f12b364e0ab2da2f084774f113633bb51ff95
+SHA256: 9c9de2bbc1fd705870acd99416f93b29eccf95d9087ca26ab63716afa3defac2
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/chocola.png
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
+Package: emt.paisseon.chocola
+Version: 0.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_0.2b_iphoneos-arm.deb
+Size: 71694
+MD5sum: 5f3fa0d94af1fdec6b0e27a1a5eda5e1
+SHA1: 8f7910e225b840ea138430e58ef29fac085447f4
+SHA256: cef29db80785bc8d9725813140692645760ca3d4cbe4ff64b8fc9478960b817e
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/chocola.png
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
+Package: emt.paisseon.erika
+Version: 0.2-beta
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 180
+Depends: mobilesubstrate, curl, sed
+Filename: debs/emt.paisseon.erika_0.2-beta_iphoneos-arm.deb
+Size: 10594
+MD5sum: be5bb8fa0f33211695cb2838b908708a
+SHA1: 7563e9002f0ef33c79b97b9df8db36fd7cba99f7
+SHA256: 16159e67723e0de4cb1126f9c76e3e004b3c283cf38dd25aae2fb0376deb6245
+Description: Download tweaks for free in Sileo
+Author: CyPwn
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 0.3-beta
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 156
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), sed, curl
+Filename: debs/emt.paisseon.erika_0.3-beta_iphoneos-arm.deb
+Size: 25262
+MD5sum: 683c50b6f67055b8fb202d3a8413f4a9
+SHA1: ccec868cd9e7c27712161abd1c04fe579a9d6722
+SHA256: d64e1c9fb43da25ba5c5936a81a1a996109de70f0b416deb542c418b3db2ed5b
+Section: Tweaks
+Description: Download tweaks free in Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 0.4b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 160
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.erika_0.4b_iphoneos-arm.deb
+Size: 29246
+MD5sum: 9d6d9a97ec08c473509ac6384c4a8f19
+SHA1: 416ca43e4167323d0b00912a7786db3ae4f55020
+SHA256: 077d20bba5bd0c3b708941f577ae8a153c013ea9fb9cdf7d756cb5570c38a7ea
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 0.5b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.erika_0.5b_iphoneos-arm.deb
+Size: 30904
+MD5sum: 56b711496e3dd705396f3bb0d6ee691f
+SHA1: 281acc052d776b05c60a961b545b1347f15b063f
+SHA256: 9d422c65b248ecb85beef57848f73b53cb63d441b0a0a4a6ead4b4e04d9ce5c8
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika (Beta)
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.0_iphoneos-arm.deb
+Size: 30666
+MD5sum: 3e890483e3baa325790c362d173141ec
+SHA1: b7e49c27ab14cc1750169cbdaa4d498eb7fe6947
+SHA256: c67f6189b42bda6164a38fc265f30688be9b1a930645d6d5caf69fc437264411
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.1_iphoneos-arm.deb
+Size: 30698
+MD5sum: f03791bd7dc8f0e34f3b713988ccf17d
+SHA1: 6b78f8ca27ef647c77fcb3f99521c5a7ab07aeff
+SHA256: 9176a0ee7d89ea7b572dd30a3589a251acaa662dc37a3667ae09d80e2aa794c3
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.2_iphoneos-arm.deb
+Size: 32044
+MD5sum: d132bb30a4ddfdccb17742e99efd32aa
+SHA1: 9fc61c8df31128283da58fd3bbd9658d4b15df2a
+SHA256: 56e43d18cffa02c17829131c175191e0c5de0738cc9601e8e65bdb811e379a77
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.2.1_iphoneos-arm.deb
+Size: 33270
+MD5sum: 9f059024bb47723b6d8e23663551a652
+SHA1: 715a1fac4509b91a6c0e804494f9af6c897a962b
+SHA256: 084d7121fdfbcbceb68e7770093de80592066868f96366bd42d9c96905c59471
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.3_iphoneos-arm.deb
+Size: 33362
+MD5sum: b58c8ec738a3afc793b2866e5b14b392
+SHA1: cab6b55325035591b16f0afe001d6fd59bd1bc6a
+SHA256: 36f9645133a01b3d9b6ee57b930b02434165c1807435bba7febe8d50ae283069
+Section: Tweaks
+Description: CyDown++ for Sileo and Saily
+Author: Paisseon
+Depiction: https://paisseon.github.io/info/erika.html
+Icon: https://paisseon.github.io/info/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/info/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Filename: debs/emt.paisseon.erika_1.4_iphoneos-arm.deb
+Size: 33412
+MD5sum: a0a4d37480d2c01cc240a0bb6c670319
+SHA1: 49f8c84f8c04e0464978b3994df0eea41d530b65
+SHA256: 31abc86e97ec71f072f22d0459d9167255bd4fa01f819307abbcb99054fcecc6
+Section: Tweaks
+Description: Paid tweaks for free on Saily + Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 576
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Filename: debs/emt.paisseon.erika_1.5_iphoneos-arm.deb
+Size: 107736
+MD5sum: 5e5bb4225a2abbe295bd4ac1cec0c0e5
+SHA1: 4bb6717b290af5546bab61f6332ca03954973195
+SHA256: d6d80dbd1769ebb7ee426012a74b4aca96368bdb6af682887570dea7c91ea923
+Section: Tweaks
+Description: Paid tweaks for free on Saily + Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 576
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Filename: debs/emt.paisseon.erika_1.6_iphoneos-arm.deb
+Size: 104118
+MD5sum: 62fa1fd0e796b4f081b56bf7f451c76a
+SHA1: c3946c053ce3263e30b1cc69ff2cf8638aedfa20
+SHA256: 5ca9d6d3d7d1089cbdd53d6e7c6ed4236ee7665a429b00f4e43742226a8ab1b5
+Section: Tweaks
+Description: Paid tweaks for free on Saily + Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 580
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Filename: debs/emt.paisseon.erika_1.7_iphoneos-arm.deb
+Size: 108878
+MD5sum: 94ecb71f8698bb2bfbb92de1ffdb04d8
+SHA1: 5d7e5f4b6b17640c76396fa7089cb3922118d0b6
+SHA256: 884dfb9af246821ee031625e90dcc1b61df760920121190bba03f6147402f1da
+Section: Tweaks
+Description: Paid tweaks for free on Saily + Sileo
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.icleaner
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 124
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.icleaner_0.0.2_iphoneos-arm.deb
+Size: 17290
+MD5sum: 471dbd936bcebf7a705e1dc134c0fea1
+SHA1: 51fa5dd0cd6998ba697bed0729511997246a7b08
+SHA256: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
+Section: Tweaks
+Description: iCleaner Pro for free, nanodesu
+Author: Paisseon
+Name: iCleaner Pro Crack
+
+Package: emt.paisseon.lipfix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/emt.paisseon.lipfix_1.0.1_iphoneos-arm.deb
+Size: 3796
+MD5sum: 1f61a3d3c3d43eaa666946727e4abcfe
+SHA1: a9d82e719c740b71e03313d017929b29cb2bb1c1
+SHA256: 520d121404dec527a180e601bc32cc95b7406cdea971cd8646fd855c4e201506
+Section: Tweaks
+Description: Fix a bug with libimagepicker in my tweaks
+Author: Paisseon
+Name: libimagepicker Fix
+
+Package: emt.paisseon.lunartime
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 228
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.lunartime_1.2_iphoneos-arm.deb
+Size: 21288
+MD5sum: 0ae26ed3fc4b9be82afe1a0405aaf7b4
+SHA1: 7c84ca512af30360c6f93c6be0324a5ac449a761
+SHA256: ec12e2b28e60b29821836b95bfa40ca6f2d2dc81b6a8b71b9f221b0d3cc60e94
+Section: Tweaks
+Description: Lunar phase in your status bar
+Author: Paisseon
+Name: LunarTime
+
+Package: emt.paisseon.paibloxx
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 4
+Depends: firmware (>= 12.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.1b_iphoneos-arm.deb
+Size: 1672
+MD5sum: 0e2609cb1641f9323efb7ad200e7b3fc
+SHA1: e032561d3f15d99772a636640c19f2d7e3905f2b
+SHA256: ea8fc33e26806e876601dfc14746e63414fc9efd82c1cef76ac04c32d66ef4da
+Section: Tweaks
+Description: Systemwide adblocker for iOS. If it doesn't work, use 'sudo cfnReload' in Terminal or toggle on and off the Flight Mode.
+Author: Paisseon
+Name: PaiBloxx
+
+Package: emt.paisseon.paibloxx
+Version: 0.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 12
+Depends: firmware (>= 12.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.2b_iphoneos-arm.deb
+Size: 1970
+MD5sum: 19af1ccf70c16a284acc43474bcad263
+SHA1: ecb19694800af79f7ded785b0305a08e751756a1
+SHA256: 6b576fadd96f19bbd67e21b4f28ae23a24006f4f813741aca71e461ee854f52f
+Section: Tweaks
+Description: Systemwide adblocker for iOS. If it doesn't work, use 'sudo cfnReload' in Terminal or toggle on and off Airplane Mode. To choose a PAC, use either 'sudo mbPac' for MyBloxx or 'sudo pbPac' for PaiBloxx.
+Author: Paisseon
+Name: PaiBloxx
+
+Package: emt.paisseon.paibloxx
+Version: 0.3b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.3b_iphoneos-arm.deb
+Size: 6708
+MD5sum: d6664c2247b203ceb196bfd43ed79d2b
+SHA1: 2c0625b2edbc39e37de0e20cbb84bd8cdf117855
+SHA256: ee886c2ab9a84d79618a2dadf794b9f605d96ab8241474f3e4f9583807b8e878
+Section: Tweaks
+Description: Auto-updating systemwide ad blocker for iOS-- a fork of MyBloxx designed for safety and simplicity. To configure the tweak, use in Terminal: `sudo cfnReload <arg0>` with argument -e to enable, -d to disable, -m to use MyBloxx's PAC, or -p to use PaiBloxx's PAC. If changes don't seem to apply, either userspace reboot or ldrestart.
+Author: Paisseon
+Name: PaiBloxx
+
+Package: emt.paisseon.paibloxx
+Version: 0.4b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.pheux.fixrandomresprings
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.4b_iphoneos-arm.deb
+Size: 6568
+MD5sum: a3c13d5d9e086bc3a53658c946d1459a
+SHA1: 1bc80d3cabd05d851ff78e35ff8eb53d732c9e7d
+SHA256: 738a0cbccbd4915028dd5e30cae3cc1ebbccaf973e3bfaf76b01c26fa2953495
+Section: Tweaks
+Description: Auto-updating systemwide ad blocker for iOS
+Author: Paisseon
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/info/paibloxx.json
+
+Package: emt.paisseon.paibloxx
+Version: 0.5.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), plutil
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_0.5.1b_iphoneos-arm.deb
+Size: 7260
+MD5sum: 817a3e57514a0a66105d1c26c1f59b0e
+SHA1: 693698e3d69e43be52e8a18c105737ee0ccbe09b
+SHA256: 99df0d01992f19f320fd23375b9b8946a0135bd5f3d66119210e8996e44f8e26
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://www.reddit.com/r/jailbreak/comments/smf3xv/free_release_shutupcr4shed_silence_cr4shed_jetsam/hw0ts19/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+
+Package: emt.paisseon.paibloxx
+Version: 0.5.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 172
+Depends: firmware (>= 13.0), com.bingner.plutil|plutil
+Conflicts: net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, com.myxxdev.shutupcr4shed
+Filename: debs/emt.paisseon.paibloxx_0.5.2b_iphoneos-arm.deb
+Size: 7204
+MD5sum: fd3dfb973de386004fcb3dfaba28b239
+SHA1: 647cf4cedd682db550bf5f765df6d7e5de5fd438
+SHA256: 49442ef77c7386356dcd32dcbaceb713a163ee214b3c633419526e3f419cd745
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+
+Package: emt.paisseon.respringunlock
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: debs/emt.paisseon.respringunlock_0.1_iphoneos-arm.deb
+Size: 11046
+MD5sum: 37e7371ac3f9f853729199a2e28fec03
+SHA1: c2e00eb0896d8ea1d56db09e9bbe3aba9f0f29d8
+SHA256: 07d27a174ac17117c2bdef750ae89e33caca55704eb2adbd36a63e5f5d905e3e
+Section: Tweaks
+Description: Auto-unlock after respring
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Name: RespringUnlock
+
+Package: emt.paisseon.safemr
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 460
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.safemr_1.1_iphoneos-arm.deb
+Size: 47272
+MD5sum: aa509ab76ca193a160287836981111f9
+SHA1: a74f15cb8ca8398e949907007e15954769d34727
+SHA256: 5e2af742b9c5da90929a8b724b9e9414b1bc41c88745224bb47f4ffc7608d02a
+Section: Tweaks
+Description: Disables the "malware" distributed by MainRepo
+Author: Paisseon
+Name: Safe MainRepo
+
+Package: emt.paisseon.safemr
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 264
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.safemr_1.1.1_iphoneos-arm.deb
+Size: 33292
+MD5sum: 0d40de6b8f0fc05f9f68ce27e131b3b0
+SHA1: 9c6f357638cf975f410c6c00d264dea871048177
+SHA256: deaf881fdbc52dfe497b326bfeba87e4673ce8974151e71f39afea97086804f2
+Section: Tweaks
+Description: Disables the "malware" distributed by MainRepo
+Author: Paisseon
+Name: Safe MainRepo
+
+Package: emt.paisseon.satella
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 480
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.1b_iphoneos-arm.deb
+Size: 73486
+MD5sum: 46485987ffabbca84d8f0fa08a9c6e57
+SHA1: 2d2e2954a9fb248c24863fc4f415d0393788a6da
+SHA256: a41f3e0d3ab5a500d6da8900c7a2f2f60b71e0ed69309a8a7ed1497e011a30df
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Icon: https://paisseon.github.io/info/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/info/satella2.json
+
+Package: emt.paisseon.satella
+Version: 0.2b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 468
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.2b_iphoneos-arm.deb
+Size: 57354
+MD5sum: 6c99a78bacb647570c6fc51586e5cb05
+SHA1: fcf779f86077cb12471d3e05639b866af892b081
+SHA256: b002460aa2d82b681a8afe41756cc1293a717d016ee99ee35e1a694a3d351cf8
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Icon: https://paisseon.github.io/info/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/info/satella2.json
+
+Package: emt.paisseon.satella
+Version: 0.3.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 468
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.3.1b_iphoneos-arm.deb
+Size: 58144
+MD5sum: f4d472bee77980cf0f18ba3a9106e917
+SHA1: 13d5b5462b7ec8097ff57e2663cc183978afd088
+SHA256: cab81d752ff694058f1801042f5285b0c1b353924b9973433181257feb9e0ffe
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
+Package: emt.paisseon.satella
+Version: 0.3b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 468
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.3b_iphoneos-arm.deb
+Size: 58164
+MD5sum: 1d9e9a718afb5f38e2a5b1f2b29dc496
+SHA1: 9a782c7f4bf3baa4d23c480a94e68d890258148f
+SHA256: 5eb90c5b1170a2b92cb45dfe1d2a57c32b9980447731288896db5f477fbbd3fd
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Icon: https://paisseon.github.io/info/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/info/satella2.json
+
+Package: emt.paisseon.satella
+Version: 0.4b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 468
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.4b_iphoneos-arm.deb
+Size: 58292
+MD5sum: 9c78e87c2a932a3ab518b582af6c3941
+SHA1: 8475dfc0d911f6633acc9077e6be43af9f6ea74b
+SHA256: acefafcc177dfcca295db8790804ddb031de989376900e09f7d8c387123fb366
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
+Package: emt.paisseon.satella
+Version: 0.5b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_0.5b_iphoneos-arm.deb
+Size: 61170
+MD5sum: 056ac66c81b87e4f25b42a1b199a42b1
+SHA1: 12e5ea961db26c29e997fb968e9010faa0965043
+SHA256: 8f88aeaa50fe0c146dc5603f5d9da575d4213a8b3fd1effa66dea94fe59b49e9
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
+Package: emt.paisseon.satella
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.0_iphoneos-arm.deb
+Size: 67604
+MD5sum: 29d2b477d302f07531a1cf5efa698b27
+SHA1: aaa5991e093c41a5b53637c8b9d43a5dfab2f9e4
+SHA256: df5ce8d6acc5deaadf51e3d76f585640738bcf2d2444385db5ee1ed79b26ae81
+Section: Tweaks
+Priority: optional
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
+Package: emt.paisseon.satella
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.0.1_iphoneos-arm.deb
+Size: 67656
+MD5sum: 5252796fac5b46dc8ab6704ac22905d1
+SHA1: e7cc16b23d6187a120f11c78c5fdec654b1b84ef
+SHA256: e1399d464577c35935e09b5710123a5550279947baf25773adb03667b6dee647
+Section: Tweaks
+Priority: optional
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://paisseon.github.io/depictions/ButNobodyCame.html
+Icon: https://paisseon.github.io/icons/satella2.png
+Name: Satella 2
+Sileodepiction: https://paisseon.github.io/depictions/satella2.json
+
+Package: emt.paisseon.ulysses
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 192
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: moe.emilia.ulysses
+Filename: debs/emt.paisseon.ulysses_1.0_iphoneos-arm.deb
+Size: 17936
+MD5sum: 3ab5bb04137f6e743970caa84917c245
+SHA1: 38bb116694bc5726f18fc869be8f56d6f0251f85
+SHA256: c60d96f4c4c5b7cad0b68e0286a6939576ea14ad0beb8b535c247f0e4489e576
+Section: Tweaks
+Description: Unlimited subscription for the Ulysses writing app
+Author: Paisseon
+Name: Ulysses Crack
+
