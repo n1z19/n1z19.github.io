@@ -8,6 +8,7 @@ The default payloads are stored in `payloads/` after a successful run, the ELF l
 After elfldr starts on port `9021`, press R2 to send `kstuff.elf`, `shadowmountplus.elf`, then `etaHEN.elf`.
 
 ## Credits
+- 24kpwn
 - Jordy
 - Sonic_Iso
 - ufm42
