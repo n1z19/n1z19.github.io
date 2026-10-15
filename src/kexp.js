@@ -160,7 +160,6 @@ export async function loadOptionalPayloads(p, chain, log) {
   const shadowmount = await mapElf("shadowmountplus.elf", p, chain);
   const etaHEN = await mapElf("etaHEN.elf", p, chain);
   const ProsperoMgr = await mapElf("etaHEN.elf", p, chain);
-  const pldmgr = await mapElf("pldmgr.elf", p, chain);
   await sendElf("kstuff.elf", kstuff, p, chain);
   log("kstuff.elf sent");
   await new Promise((resolve) => setTimeout(resolve, 3000));
@@ -172,8 +171,6 @@ export async function loadOptionalPayloads(p, chain, log) {
   log("ps5appdumper.elf sent");
   await sendElf("ProsperoMgr.elf", appdumper, p, chain);
   log("ProsperoMgr.elf sent");
-  await sendElf("pldmgr.elf", appdumper, p, chain);
-  log("pldmgr.elf sent");
 }
 
 function patchShellcode(blob, symbols) {
